@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a basic recipe website that will display a few pages of different recipes someone can follow. For now, this will be using HTML to practice basic display functions including adding images, links, and paragraphs.
