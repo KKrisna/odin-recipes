@@ -1,0 +1,46 @@
+#title{
+    background-color: rgb(171, 171, 171);
+    text-align: center;
+    font-size: 50px;
+    font-family: "Brush Script MT", sans-serif;
+}
+
+h1, h2, .links{
+    color: darkgreen;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.links{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: papayawhip;
+}
+
+img{
+    height: auto;
+    width: 200px;
+    
+}
+
+.odd.nash.ingredients, .even.butter, .katsu.steps{
+    background-color: rgb(213, 240, 213);
+}
+
+.even.nash.ingredients, .butter.steps{
+    background-color: blanchedalmond;
+}
+
+.odd.nash.steps, .katsu.ingredients{
+    background-color: lightcyan;
+}
+
+.even.nash.steps, .odd.butter{
+    background-color: lightpink;
+}
+
+.description{
+    background-color: lavender;
+}
