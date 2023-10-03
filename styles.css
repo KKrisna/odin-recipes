@@ -2,7 +2,7 @@
     background-color: rgb(171, 171, 171);
     text-align: center;
     font-size: 50px;
-    font-family: "Brush Script MT", sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h1, h2, .links{
@@ -13,10 +13,18 @@ h2{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+ul{
+    padding: 0;
+}
+
 .links{
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
     background-color: papayawhip;
+    margin: 0.2rem;
+    padding-top: 15px;
+    display: inline-block;
+    list-style: none;
 }
 
 img{
